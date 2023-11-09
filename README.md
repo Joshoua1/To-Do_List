@@ -4,8 +4,11 @@ Welcome to the Interactive To-Do List project! This simple web application allow
 # Features
 
 Add Tasks: Easily add new tasks to your to-do list.
+
 Mark as Complete: Check off completed tasks with a click.
+
 Delete Tasks: Remove tasks you no longer need.
+
 Hover Animation: Enjoy a subtle hover animation for a more interactive experience.
 
 # Technologies Used
