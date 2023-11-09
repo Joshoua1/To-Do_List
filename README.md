@@ -13,14 +13,19 @@ Hover Animation: Enjoy a subtle hover animation for a more interactive experienc
 
 # Technologies Used
 HTML
+
 CSS
+
 JavaScript
+
 Getting Started
 
 # Clone this repository.
-Open the index.html file in your web browser.
-Start managing your tasks interactively!
-Feel free to customize and enhance the project further, adding features like local storage, task prioritization, or due dates.
+1. Open the index.html file in your web browser.
+
+2. Start managing your tasks interactively!
+
+3. Feel free to customize and enhance the project further, adding features like local storage, task prioritization, or due dates.
 
 # Happy task managing! 🚀
 
