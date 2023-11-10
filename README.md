@@ -29,6 +29,6 @@ Getting Started
 
 # Happy task managing! 🚀
 
-# Feel free to tweak it based on your preferences or add any additional information you find relevant.
+Feel free to tweak it based on your preferences or add any additional information you find relevant.
 
 
